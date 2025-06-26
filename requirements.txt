@@ -1,0 +1,10 @@
+torch==2.7.0+cpu  # For CUDA 11.8 (modern NVIDIA GPUs)
+torchvision==0.22.0+cpu
+numpy==2.3.0
+opencv-python==4.11.0.86
+ffmpeg-python==0.2.0
+tqdm==4.64.1
+matplotlib==3.10.3
+pillow~=11.2.1
+requests~=2.32.4
+click~=8.2.1
